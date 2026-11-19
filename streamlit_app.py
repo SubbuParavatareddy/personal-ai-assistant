@@ -12,7 +12,7 @@ from dotenv import load_dotenv
 
 # ---------- Part 1: the personality ----------
 # Change these to make the assistant your own.
-TITLE = "Agent Assistant"
+TITLE = "Software Development Idea Partner"
 SYSTEM_PROMPT = """You are a software-development idea partner.
 Help users discover, evaluate, and shape useful software projects."""
 
